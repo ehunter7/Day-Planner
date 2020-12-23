@@ -19,6 +19,12 @@ As a user
 
 # Links
 
+GitHub repository
+    https://github.com/ehunter7/Day-Planner
+
+GitHub page
+    https://ehunter7.github.io/Day-Planner/
+
 # screenshots of finished product
 
     ![image](C:\projects\Homework\Day-Planner\Screenshot 2020-12-23 134732.png)

@@ -27,4 +27,4 @@ GitHub page
 
 # screenshots of finished product
 
-    ![image](C:\projects\Homework\Day-Planner\Screenshot 2020-12-23 134732.png)
+    ![Screenshot 2020-12-23 134732](https://user-images.githubusercontent.com/73093272/103040089-4e9ec080-4527-11eb-8f1f-a83b62421746.png)
